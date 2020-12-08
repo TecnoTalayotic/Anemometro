@@ -1,12 +1,12 @@
-/*Sensor WindDirection
-En este programa configuraremos el sensor WindDirection
+/*Sensor Anemometro
+En este programa configuraremos el sensor Anemometro
 para leer los datos en el terminal serie. 
 Creado por TecnoTalayotic
 https://www.instagram.com/tecnotalayotic
 https://www.thingiverse.com/TecnoTalayotic
 https://github.com/TecnoTalayotic
 Más información del proyecto en:
-https://github.com/TecnoTalayotic/WindDirection
+https://github.com/TecnoTalayotic/Anemometro
 */
 
 //Variables comunes
