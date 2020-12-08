@@ -1,5 +1,5 @@
-/*Sensor Anemometro
-En este programa configuraremos el sensor Anemometro
+/*Anemometro
+En este programa configuraremos el Anemometro
 para leer los datos en el terminal serie. 
 Creado por TecnoTalayotic
 https://www.instagram.com/tecnotalayotic
